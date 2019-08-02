@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "New exploration with a combination of telecommunication, physics, and biology"
+title: "New exploration: a combination of telecommunication, physics, and biology"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 <br/><img src='/images/Page-About-image-1.jpg'>
 
-Bo Li received training in optical signal processing (telecommunication) for his PhD degree and additional postdoc training in laser fabrication (physics) and multiphoton laser-scanning microscopy for brain research (biology). With the interdisciplinary background, Bo is excited about several directions:
+Bo Li received PhD training in optical signal processing (telecommunication) and additional postdoc training in laser fabrication (physics) and multiphoton laser-scanning microscopy for brain research (biology). With the interdisciplinary background, Bo is excited about several directions:
 
 1. Use the mature telecommunication concepts to improve lasers and optical microscopy.
 2. With the new capability from novel lasers and microscopy, we conduct brain research, such as neural plasticity and circuits.
