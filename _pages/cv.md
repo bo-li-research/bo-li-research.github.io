@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,95 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in applied physics, 2009
+  * Shandong University
+* M.S. in optical communication, 2011
+  * Beijing Jiaotong University
+  * Supervisor: Prof. Zhongwei Tan
+* Ph.D. in optical communication, 2015
+  * INRS-EMT (Montreal, Canada)
+  * Beijing Jiaotong University (Beijing, China)
+  * Supervisor: Prof. José Azaña and Prof. Shuqin Lou
+* Postdoc in biomedical imaging, 2015-present
+  * Cornell University
+  * Supervisor: Prof. Chris Xu
 
-Work experience
+Referee activities
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Regular reviewer for many journals including:
+  * Sci. Rep.
+  * Opt. Lett.
+  * Opt. Express
+  * Bio. Opt. Express
+  * J. Bio. Opt.
+  * Photon. J.
+  * Appl. Opt.
+  * Electron. Lett.
+  * J. Opt. Soc. Am. B
+  * IET Sci. Meas. Technol.
+  * JIOHS.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer programming/coding
+  * Matlab
+    * numerical simulations in > 20 publications.
+    * wrote programming code to communicate with hardwares including
+      * Data acquisition card
+      * Arbitrary waveform generator
+      * Oscilloscopes
+      * Power meters
+      * Motors
+  * Python
+    * wrote several crawler codes with selenium.
+  * Quick macro
+    * wrote many gametools for games such as
+      * Lords mobile
+      * C.A.T.S.
+      * twitter
+      * Legends of the three kingdoms
+      * Tap Titans
+* Telecommunication
+  * Build > 10 signal processing systems
+  * Familiar with devices such as
+    * Oscilloscopes (electronic/optical, sampling/real-time versions)
+    * Optical spectrum analyzer
+    * Arbitrary waveform generator
+    * Waveshaper
+    * Incoherent/coherent laser source/amplifiers
+    * Photo-detectors/Cameras with GaP/GaAsP/Si/InGaAs
+* Fiber optics
+  * Built
+    * > 20 fiber amplifiers (Er-doped and Yb-doped)
+    * fiber chirped amplification amplifiers with >10 W output and femtosecond pulse width
+    * (wavelength, bandwidth, time delay, intensity) all tunable, multi-color fiber lasers.
+    * wavelength-tunable bandwidth source (750-1250 nm, 1550-2520 nm)
+  * Did numerical simulations and experiments with:
+    * Raman scattering
+    * self-phase modulation
+    * cross phase modulation
+    * four-wave mixing
+    * airy pulses/beams
+    * high-order dispersion
+    * time lenses
+* Microscope
+  * built
+    * three Raman microscopes
+    * several two-, three-photon laser scanning microscopes (linear and resonant scanning)
+    * four lasers for different microscopes
+    * 3D scanning microscope with a TAG lens
+  * Familiar with
+    * Ti:Sapphire lasers
+    * Optical parametric amplifiers, such as NOPA
+* Biology
+  * Mouse surgery (replace mouse brain skull with a cranial window)
+  * Dye injection
+  * Imaging of >30 mice
+  * Analysis of neural activity
 
-Publications
+
+news
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.news %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
