@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "3academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bo Li"
 excerpt: "About me"
 author_profile: true
 redirect_from:
