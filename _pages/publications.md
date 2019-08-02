@@ -29,21 +29,21 @@ A. Journals
 5. **B. Li** and S. Lou, "[Time-frequency conversion, temporal filtering and temporal imaging using graded-index time-lenses](http://bo-li-research.github.io/files/paper-2012-OL-1.pdf)," Opt. Lett., 37(19), pp. 3981-3983, 2012.
 4. **B. Li**, S. Lou, and Z. Tan, "[Two kinds of optical pulse compression approaches based on cross phase modulation](http://bo-li-research.github.io/files/paper-2012-APS-2.pdf)," Acta. Phys. Sin. 61(19), 194203, 2012.
 3. **B. Li**, Z. Tan, and X. Zhang, "[Simulation and analysis of time lens using cross phase modulation and four-wave mixing](http://bo-li-research.github.io/files/paper-2012-APS-1.pdf)," Acta. Phys. Sin. 61(1), 014203, 2012.
-2. X. Zhang, Z. Tan, X. Zhang, and X. Sheng, "," Optical Fiber & Electric Cable and Their Applications, 6, 26-29, 2011
+2. X. Zhang, Z. Tan, **B. Li**, and X. Sheng, "An optical-to-analog conversion technique based on temporal magnification," Optical Fiber & Electric Cable and Their Applications, 6, 26-29, 2011
 1. **B. Li**, Z. Tan, and X. Zhang, "[Experiment and simulation of time lens using electro-optic phase modulation and cross phase modulation](http://bo-li-research.github.io/files/paper-2011-APS-1.pdf)," Acta. Phys. Sin. 60(8), 084204, 2011.
 
 B. Conferences
 ------
 
-13. **B. Li**, M. Wang, C. Wu, K. Charan, and C. Xu, "[An adaptive excitation source for multiphoton imaging](http://bo-li-research.github.io/files/Conference-2018-CLEO_AT-2018-JTh5C.5.pdf)," CLEO (OSA), JTh5C.5, 2018.
+13. **B. Li**, M. Wang, C. Wu, K. Charan, and C. Xu, "[An adaptive excitation source for multiphoton imaging](http://bo-li-research.github.io/files/Conference-2018-CLEO_AT-2018-JTh5C.5.pdf)," CLEO (OSA), JTh5C.5, 2018. (**Postdeadline paper**)
 12. M. Wang, C. Wu, **B. Li**, F. Xia, D. Sinefeld, and C. Xu, "[Comparison of excitation wavelengths for in vivo deep imaging of mouse brain](http://bo-li-research.github.io/files/Conference-2018-PhotonicWest-1049816.pdf)," SPIE Photonic West (SPIE), 104982A, 2018.
 11. M. Wang, T. Wang, C. Wu, **B. Li**, D. G. Ouzounov, D. Sinefeld, A. Guru, H. Nam, M. R. Capecchi, M. R. Warden, and C. Xu, "[In vivo three-photon imaging of deep cerebellum](http://bo-li-research.github.io/files/Conference-2018-PhotonicWest-1049816.pdf)," SPIE Photonic West (SPIE), 1049816, 2018.
 10. F. Xia, D. Sinefeld, **B. Li**, and C. Xu, "[A Two-Photon Shack-Hartmann Wavefront Sensor for The Near-Infrared Wavelength](http://bo-li-research.github.io/files/Conference-2017-CLEO_SI-2017-SM2M.7.pdf)," CLEO (OSA), SM2M.7, 2017.
-9. **B. Li**, M. Wang, and C. Xu, "[Generation of high-pulse energy, wavelength-tunable, femtosecond pulse at 1600-2520 nm and its second-harmonic for multiphoton imaging](http://bo-li-research.github.io/files/Conference-2017-CLEO_AT-2017-ATu3B.3.pdf)," CLEO (OSA), ATu3B.3, 2017.
+9. **B. Li**, M. Wang, and C. Xu, "[Generation of high-pulse energy, wavelength-tunable, femtosecond pulse at 1600-2520 nm and its second-harmonic for multiphoton imaging](http://bo-li-research.github.io/files/Conference-2017-CLEO_AT-2017-ATu3B.3.pdf)," CLEO (OSA), ATu3B.3, 2017. (**Invited talk**)
 8. **B. Li**, K. Charan, K. Wang, D. Sinefeld, and C. Xu, "[Multi-wavelength time-lens source and its application to nonresonant background suppression for coherent anti-Stokes Raman scattering microscopy](http://bo-li-research.github.io/files/Conference-2017-PhotonicWest-100690Y.pdf)," SPIE Photonic West (SPIE), 100690Y, 2017.
 7. **B. Li**, S. Lou, and J. Azaña, "[Incoherent-light temporal compression of microwave signals using a ‘time-domain eye’system](http://bo-li-research.github.io/files/Conference-2015-OEDI-2015-OT2B.4.pdf)," OEDI (OSA), OT2B.4, 2015.
 6. **B. Li** and J. Azaña, "[Incoherent-light implementation of the photonic time stretch concept](http://bo-li-research.github.io/files/Conference-2015-CLEO_AT-2015-JW2A.69.pdf)," CLEO (OSA), JW2A.69, 2015.
-5. J. Azana and **B. Li**, "[Incoherent-light temporal imaging of high-speed, long-duration microwave signals](http://bo-li-research.github.io/files/Conference-2015-ICOCN-07203685.pdf)," ICOCN (IEEE), 1-3, 2015.
+5. J. Azana and **B. Li**, "[Incoherent-light temporal imaging of high-speed, long-duration microwave signals](http://bo-li-research.github.io/files/Conference-2015-ICOCN-07203685.pdf)," ICOCN (IEEE), 1-3, 2015. (**Invited talk**)
 4. **B. Li**, S. Lou, and J. Azaña, "[Novel temporal zone plate design with improved energy efficiency and noise performance](http://bo-li-research.github.io/files/Conference-2014-IPC-06995400.pdf)," IPC (IEEE), WA3.4, 2014.
 3. **B. Li** and J. Azaña, "[Incoherent-Light Temporal Imaging](http://bo-li-research.github.io/files/Conference-2014-IPC-06995399.pdf)," IPC (IEEE), WA3.3, 2014.
 2. **B. Li**, M. Li, S. Lou, and J. Azaña, "[Temporal phase zone plates for linear optical pulse compression](http://bo-li-research.github.io/files/Conference-2013-CLEO_QELS-2013-JTh2A.21.pdf)," CLEO (OSA), JTh2A.21, 2013.
