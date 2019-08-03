@@ -68,7 +68,7 @@ Skills
     * Photo-detectors/Cameras with GaP/GaAsP/Si/InGaAs
 * Fiber optics
   * Built
-    * > 20 fiber amplifiers (Er-doped and Yb-doped)
+    * More than 15 fiber amplifiers (Er-doped and Yb-doped)
     * fiber chirped amplification amplifiers with >10 W output and femtosecond pulse width
     * (wavelength, bandwidth, time delay, intensity) all tunable, multi-color fiber lasers.
     * wavelength-tunable bandwidth source (750-1250 nm, 1550-2520 nm)
