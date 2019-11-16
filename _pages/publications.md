@@ -7,7 +7,8 @@ author_profile: true
 
 A. Journals
 ------
-24. **B. Li**, C. Wu, M. Wang, K. Charan, and C. Xu, "An adaptive excitation source for high speed multiphoton microscopy," (in preparation)
+24. **B. Li**, C. Wu, M. Wang, K. Charan, and C. Xu, "An adaptive excitation source for high speed multiphoton microscopy," Nature Methods (accepted: Oct. 2019)
+24. J. Yan, H. Yu, **B. Li**, A. Fan, J. Melkonian, X. Wang, T. Zhou, J. Hua, "Cell autonomous and non-autonomous functions of plant intracellular immune receptors in stomatal defense and apoplastic defense," PLoS pathogens, Vol. 15, pp. 1-25, 2019.
 23. Y. Qin, **B. Li**, F. Xia, Y. Xia and C. Xu, "[Multi-color background-free coherent anti-Stokes Raman scattering microscopy using a time-lens source](http://bo-li-research.github.io/files/paper-2018-OE-3.pdf)," Opt. Express, vol. 26, pp. 34474-34483 2018.
 22. F. Xia, C. Wu, D. Sinefeld, **B. Li**, Y. Qin and C. Xu, "[In vivo label-free confocal imaging of the deep mouse brain with long-wavelength illumination](http://bo-li-research.github.io/files/paper-2018-BOE-3.pdf)," Bio. Opt. Express, vol. 9, pp. 6545-6555 2018.
 21. M. Wang, C. Wu, D. Sinefeld, **B. Li**, F. Xia and C. Xu, "[Comparing the effective attenuation lengths for long wavelength in vivo imaging of the mouse brain](http://bo-li-research.github.io/files/paper-2018-BOE-2.pdf)," Bio. Opt. Express, vol. 9, pp. 3534-3543 2018.
@@ -15,17 +16,17 @@ A. Journals
 19. K. Charan, **B. Li**, M. Wang, C. P. Lin and C. Xu, "[Fiber-based tunable repetition rate source for deep tissue two-photon fluorescence microscopy](http://bo-li-research.github.io/files/paper-2018-BOE-1.pdf)," Bio. Opt. Express, vol. 9, pp. 2304-2311 2018.
 18. M. Li, S. Sun, **B. Li**, H. Asghari, Y. Deng, W. Li and N. Zhu, "[Time-bandwidth compression of microwave signals](http://bo-li-research.github.io/files/paper-2018-OE-1.pdf)," Opt. Express, vol. 26, pp. 990-999 2018.
 17. F. Xia, D. Sinefeld, **B. Li** and C. Xu, [Two-photon Shack–Hartmann wavefront sensor](http://bo-li-research.github.io/files/paper-2017-OL-1.pdf)," Opt. Lett., vol. 42, pp. 1141-1144 2017.
-16. **B. Li**, K. Charan, K. Wang, T. Rojo, D. Sinefeld, and C. Xu, "[Nonresonant background suppression for coherent anti-Stokes Raman scattering microscopy using a multi-wavelength time-lens source](http://bo-li-research.github.io/files/paper-2016-OE-1.pdf)," Opt. Express, vol. 24, pp. 26687-26695, Nov. 2016.
-15. **B. Li** and J. Azaña, "[Theory of Incoherent-Light Temporal Imaging Systems Based on a Temporal Pinhole](http://bo-li-research.github.io/files/paper-2016-JLT-1.pdf)," J. Lightwave Tech., vol. 34, pp. 2758-2773, June 2016.
+16. **B. Li**, K. Charan, K. Wang, T. Rojo, D. Sinefeld, and C. Xu, "[Nonresonant background suppression for coherent anti-Stokes Raman scattering microscopy using a multi-wavelength time-lens source](http://bo-li-research.github.io/files/paper-2016-OE-1.pdf)," Opt. Express, vol. 24, pp. 26687-26695, 2016.
+15. **B. Li** and J. Azaña, "[Theory of Incoherent-Light Temporal Imaging Systems Based on a Temporal Pinhole](http://bo-li-research.github.io/files/paper-2016-JLT-1.pdf)," J. Lightwave Tech., vol. 34, pp. 2758-2773, 2016.
 14. **B. Li** and J. Azaña, "[Temporal Imaging of Incoherent-Light Intensity Waveforms Based on a Gated Time-Lens System](http://bo-li-research.github.io/files/paper-2015-PJ-1.pdf)," Photonics J., IEEE, vol. 7, pp. 1-8, 2015.
-13. **B. Li**, S. Lou, and J. Azaña, "[Incoherent-light temporal imaging based on a temporal pinspeck](http://bo-li-research.github.io/files/paper-2015-PTL-1.pdf)," IEEE Photon. Tech. Lett., vol. 27, pp. 348-351, Feb. 2015.
+13. **B. Li**, S. Lou, and J. Azaña, "[Incoherent-light temporal imaging based on a temporal pinspeck](http://bo-li-research.github.io/files/paper-2015-PTL-1.pdf)," IEEE Photon. Tech. Lett., vol. 27, pp. 348-351, 2015.
 12. **B. Li**, S. Lou, and J. Azaña, "[Implementation of the photonic time-stretch concept using an incoherent pulsed light source](http://bo-li-research.github.io/files/paper-2015-AO-1.pdf)," Appl. Opt., 54(10), pp. 2757-2761, 2015.
 11. **B. Li**, S. Lou, and J. Azaña, "[Novel Temporal Zone Plate Designs with Improved Energy Efficiency and Noise Performance](http://bo-li-research.github.io/files/paper-2014-JLT-1.pdf)," J. Lightwave Tech., 32(24), pp. 4201-4207, 2014.
 10. **B. Li** and J. Azaña, "[Incoherent-light temporal imaging of intensity waveforms](http://bo-li-research.github.io/files/paper-2014-OPN-1.pdf)," Opt. Photon. News, Year in optics, p. 33, 2014.
 9. **B. Li** and J. Azaña, "[Incoherent-light temporal stretching of high-speed intensity waveforms](http://bo-li-research.github.io/files/paper-2014-OL-1.pdf)," Opt. Lett., 39(14), pp. 4243-4246, 2014.
 8. S. Chang, S. Lou, **B. Li**, and B. Han, "Parametric modulation to extend the aperture of the time lens based on electro-optics modulation", Acta. Opt. Sin., pp. 65-70, 2014
 7. **B. Li**, M. Li, S. Lou, and J. Azaña, "[Linear optical pulse compression based on temporal zone plates](http://bo-li-research.github.io/files/paper-2013-OE-1.pdf)," Opt. Express, 21(14), pp. 16814-16830, 2013.
-6. **B. Li** and S. Lou, "[Elimination of Aberrations Due to High-Order Terms in Systems Based on Linear Time Lenses](http://bo-li-research.github.io/files/paper-2013-JLT-1.pdf)," J. Lightwave Tech., 31(13), pp. 2200-2206, Jul 2013.
+6. **B. Li** and S. Lou, "[Elimination of Aberrations Due to High-Order Terms in Systems Based on Linear Time Lenses](http://bo-li-research.github.io/files/paper-2013-JLT-1.pdf)," J. Lightwave Tech., 31(13), pp. 2200-2206, 2013.
 5. **B. Li** and S. Lou, "[Time-frequency conversion, temporal filtering and temporal imaging using graded-index time-lenses](http://bo-li-research.github.io/files/paper-2012-OL-1.pdf)," Opt. Lett., 37(19), pp. 3981-3983, 2012.
 4. **B. Li**, S. Lou, and Z. Tan, "[Two kinds of optical pulse compression approaches based on cross phase modulation](http://bo-li-research.github.io/files/paper-2012-APS-2.pdf)," Acta. Phys. Sin. 61(19), 194203, 2012.
 3. **B. Li**, Z. Tan, and X. Zhang, "[Simulation and analysis of time lens using cross phase modulation and four-wave mixing](http://bo-li-research.github.io/files/paper-2012-APS-1.pdf)," Acta. Phys. Sin. 61(1), 014203, 2012.
