@@ -36,6 +36,7 @@ A. Journals
 B. Conferences
 ------
 
+16. **B. Li**, C. Wu, M. Wang, K. Charan, and C. Xu, "An adaptive excitation source for multiphoton imaging," Junior Scientist Workshop on Biological Optical Microscopy, Janelia/HHMI, 2019.
 15. Y. Qin, **B. Li**, F. Xia, Y. Xia, and C. Xu, "Time-lens based multi-color background-free coherent anti-Stokes Raman scattering microscopy," SPIE Photonic West (SPIE), 108901U, 2018.
 14. F. Xia, C. Wu, D. Sinefeld, **B. Li**, Y. Qin, and C. Xu, "In vivo label-free confocal imaging of adult mouse brain up to 1.3-mm depth with NIR-II illumination," SPIE Photonic West (SPIE), 1086504, 2018.
 13. **B. Li**, M. Wang, C. Wu, K. Charan, and C. Xu, "[An adaptive excitation source for multiphoton imaging](http://bo-li-research.github.io/files/Conference-2018-CLEO_AT-2018-JTh5C.5.pdf)," CLEO (OSA), JTh5C.5, 2018. (**Postdeadline paper**)
