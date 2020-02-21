@@ -7,7 +7,7 @@ author_profile: true
 
 A. Journals
 ------
-26. **B. Li**, C. Wu, M. Wang, K. Charan, and C. Xu, "An adaptive excitation source for high speed multiphoton microscopy," Nature Methods (published online: https://www.nature.com/articles/s41592-019-0663-9)
+26. **B. Li**, C. Wu, M. Wang, K. Charan, and C. Xu, "An adaptive excitation source for high speed multiphoton microscopy," Nature Methods, Vol. 17, pp. 163-166, 2020. (https://www.nature.com/articles/s41592-019-0663-9)
 25. J. Yan, H. Yu, **B. Li**, A. Fan, J. Melkonian, X. Wang, T. Zhou, J. Hua, "Cell autonomous and non-autonomous functions of plant intracellular immune receptors in stomatal defense and apoplastic defense," PLoS pathogens, Vol. 15, pp. 1-25, 2019.
 24. Y. Qin, **B. Li**, F. Xia, Y. Xia and C. Xu, "Multi-color background-free coherent anti-Stokes Raman scattering microscopy using a time-lens source," Opt. Express, vol. 26, pp. 34474-34483 2018. [PDF](http://bo-li-research.github.io/files/paper-2018-OE-3.pdf)
 23. F. Xia, C. Wu, D. Sinefeld, **B. Li**, Y. Qin and C. Xu, "In vivo label-free confocal imaging of the deep mouse brain with long-wavelength illumination," Bio. Opt. Express, vol. 9, pp. 6545-6555 2018. [PDF](http://bo-li-research.github.io/files/paper-2018-BOE-3.pdf)
