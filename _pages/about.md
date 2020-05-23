@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "New exploration: a combination of telecommunication, lasers, microscopy, and biology"
+title: "New website: https://330674899.wixsite.com/bolilab"
 excerpt: "About me"
 author_profile: true
 redirect_from:
