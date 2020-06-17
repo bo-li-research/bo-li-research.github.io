@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This website is not updated any more, please visit my new website:     https://330674899.wixsite.com/lilab"
+title: "This website is not updated any more, please visit my new website:     [https://330674899.wixsite.com/lilab](https://330674899.wixsite.com/lilab)"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 <br/><img src='/images/Page-About-image-1.jpg'>
 
 
-This website is not updated any more, please visit my new website: https://330674899.wixsite.com/lilab
+This website is not updated any more, please visit my new website: [https://330674899.wixsite.com/lilab](https://330674899.wixsite.com/lilab)
 ------
 
 Bo Li received Ph.D. training in telecommunication and additional postdoc training in fabrication of femtosecond fiber laser and multiphoton laser-scanning fluorescence microscopy for biology, e.g. brain research. 
