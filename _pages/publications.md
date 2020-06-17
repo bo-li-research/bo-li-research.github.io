@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This website is not updated any more, please visit my new website: https://330674899.wixsite.com/lilab
+This website is not updated any more, please visit my new website: [https://330674899.wixsite.com/lilab](https://330674899.wixsite.com/lilab)
 ------
 
 A. Journals
