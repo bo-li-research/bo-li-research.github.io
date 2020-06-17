@@ -6,7 +6,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-New website: https://330674899.wixsite.com/lilab
 
 A. Journals
 ------
