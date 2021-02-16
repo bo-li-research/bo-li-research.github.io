@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "This website is not updated any more, please visit my new website:     [https://330674899.wixsite.com/lilab](https://330674899.wixsite.com/lilab)"
+title: "optical imaging lab"
 excerpt: "About me"
-author_profile: true
+author_profile: 
 redirect_from:
   - /about/
   - /about.html
