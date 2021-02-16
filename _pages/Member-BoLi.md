@@ -2,7 +2,7 @@
 layout: archive
 title: "Principal Investigator"
 permalink: /Member-BoLi/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
