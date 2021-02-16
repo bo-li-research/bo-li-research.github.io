@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Principal Investigator"
-permalink: /Members/
+permalink: /Member-BoLi/
 author_profile: true
 redirect_from:
   - /resume
