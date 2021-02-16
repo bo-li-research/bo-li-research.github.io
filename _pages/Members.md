@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "Members"
 permalink: /Members/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This website is not updated any more, please visit my new website: [https://330674899.wixsite.com/lilab](https://330674899.wixsite.com/lilab)
+Principal Investigator
 ------
 
 * B.S. in applied physics, 2009
