@@ -12,7 +12,8 @@ redirect_from:
 Principal Investigator
 ------
 
-<br/><img src='/images/Research-1-2.jpg'>
+<br/><img src='/images/IMG_4123.jpg'>
+
 
 * B.S. in applied physics, 2009
   * Shandong University
