@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Principal Investigator"
 permalink: /Members/
 author_profile: true
 redirect_from:
@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-**Principal Investigator**
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
 Bo Li<br/>
 Professor<br/>
 Research interest: three-photon imaging<br/>
+
+
+Group Member
+---
+
 
 
 
