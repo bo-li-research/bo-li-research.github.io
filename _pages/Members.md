@@ -12,9 +12,9 @@ redirect_from:
 Principal Investigator
 ------
 <br/><img src='/images/IMG_4123.jpg' width='200'>
-Bo Li
-Professor
-Research interest: three-photon imaging
+Bo Li<br/>
+Professor<br/>
+Research interest: three-photon imaging<br/>
 
 
 
