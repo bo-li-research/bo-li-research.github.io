@@ -1,11 +1,8 @@
 ---
-title: "Three papers are top downloaded in 2018"
-collection: news
-type: "News"
-permalink: /Member-BoLi
-venue: ""
-date: 2021-2-16
-location: ""
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: false
 ---
 
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
