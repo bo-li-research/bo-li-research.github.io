@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Principal Investigator
-------
+**Principal Investigator**
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
 Bo Li<br/>
 Professor<br/>
