@@ -12,7 +12,7 @@ redirect_from:
 Principal Investigator
 ------
 
-<br/>
+
 
 <img src='/images/IMG_4123.jpg'>
 
