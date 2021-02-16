@@ -12,7 +12,7 @@ redirect_from:
 Principal Investigator
 ------
 
-excerpt: "Bo LI. <br/><img src='/images/Research-1-2.jpg'>"
+<br/><img src='/images/Research-1-2.jpg'>
 
 * B.S. in applied physics, 2009
   * Shandong University
