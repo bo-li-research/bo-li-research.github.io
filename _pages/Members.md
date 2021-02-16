@@ -11,9 +11,10 @@ redirect_from:
 
 Principal Investigator
 ------
-|<br/><img src='/images/IMG_4123.jpg' width='200'>|Bo Li
-|<br/><img src='/images/IMG_4123.jpg' width='200'>|Professor
-|<br/><img src='/images/IMG_4123.jpg' width='200'>|Research interest: three-photon imaging
+<br/><img src='/images/IMG_4123.jpg' width='200'>
+Bo Li
+Professor
+Research interest: three-photon imaging
 
 
 
