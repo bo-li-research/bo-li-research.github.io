@@ -13,8 +13,7 @@ Principal Investigator
 ------
 
 
-
-<img src='/images/IMG_4123.jpg'>
+<br/><img src='/images/IMG_4123.jpg'>
 
 
 * B.S. in applied physics, 2009
