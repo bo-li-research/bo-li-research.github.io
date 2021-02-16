@@ -1,10 +1,6 @@
 ---
-layout: archive
-title: "Principal Investigator"
-permalink: /Member-BoLi/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Coherent Anti-Stokes Raman scattering (CARS) microscopy"
+collection: research
 ---
 
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
