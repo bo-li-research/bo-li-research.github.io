@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "optical imaging lab"
+title: "Biomedical optical imaging"
 excerpt: "About me"
 author_profile: 
 redirect_from:
