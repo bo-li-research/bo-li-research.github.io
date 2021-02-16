@@ -1,8 +1,3 @@
----
-layout: archive
-title: "Principal Investigator"
-author_profile: false
----
 
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
 [**Bo Li**](/_pages/Member-BoLi.md)<br/>
