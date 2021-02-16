@@ -15,7 +15,6 @@ Professor<br/>
 Research interest: three-photon imaging<br/>
 <br/>
 <br/>
-<br/>
 # Group Member
 
 
