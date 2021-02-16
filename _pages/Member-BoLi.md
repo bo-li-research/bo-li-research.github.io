@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
-author_profile: false
+title: ""
+author_profile: true
 ---
 
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
