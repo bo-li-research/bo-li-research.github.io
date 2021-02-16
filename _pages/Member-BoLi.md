@@ -1,4 +1,11 @@
-
+---
+layout: archive
+title: "Principal Investigator"
+permalink: /Member-BoLi/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
 [**Bo Li**](/_pages/Member-BoLi.md)<br/>
