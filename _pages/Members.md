@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Members"
+title: ""
 permalink: /Members/
 author_profile: true
 redirect_from:
