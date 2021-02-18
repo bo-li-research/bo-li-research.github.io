@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Li lab"
 title_separator          : "-"
-name                     : &name "Li Lab"
+name                     : &name "李博课题组"
 description              : &description "personal description"
 url                      : https://bo-li-research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
