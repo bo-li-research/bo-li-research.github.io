@@ -14,4 +14,4 @@ redirect_from:
 <br/><img src='/images/Page-About-image-1.jpg'>
 
 
-We develop novel multi-photon laser scanning microscopy and apply them to brain imaging. Our research involves multiple disciplines, including Telecommunication, Lasers, Microscopy, and Biology. Different disciplines are combined and promoted by each other.
+We develop novel multi-photon laser scanning microscopy and apply them to brain imaging. Our research involves multiple disciplines, including electronics, lasers, microscopy, and brain research. Different disciplines are combined and promoted by each other.
