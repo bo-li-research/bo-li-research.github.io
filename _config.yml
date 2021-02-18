@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "李博课题组"
+title                    : "CN"
 title_separator          : "-"
-name                     : &name "李博课题组"
+name                     : &name "Li Lab"
 description              : &description "personal description"
 url                      : http://itbr.fudan.edu.cn/info/1312/2093.htm # https://bo-li-research.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
