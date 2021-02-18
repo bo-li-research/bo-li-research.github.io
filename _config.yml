@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CN"
+title                    : "Li Lab"
 title_separator          : "-"
 name                     : &name "Li Lab"
 description              : &description "personal description"
