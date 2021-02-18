@@ -83,7 +83,7 @@ author:
   name             : "Li Lab"
   avatar           : "Front-Icon.jpg"
   bio              : "Li Lab develops multi-photon imaging methods and applies them to neuroscience."
-  location         : "Shanghai, China"
+  location         : #"Shanghai, China"
   employer         : "Fudan University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?&user=Yeqc0E0AAAAJ"
