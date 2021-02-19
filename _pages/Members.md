@@ -46,17 +46,3 @@ Undergraduate<br/>
 Research interest: Microscope design, 3D model design<br/>
 Email: 18301050013@fudan.edu.cn<br/>
 
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-news
-======
-  <ul>{% for post in site.news %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
