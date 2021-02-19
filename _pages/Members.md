@@ -11,7 +11,7 @@ redirect_from:
 
 <br/><img src='/images/IMG_4123.jpg' width='200'><br/>
 [**Bo Li**](/_pages/Member-BoLi)<br/>
-Professor<br/>
+Principle Investigator<br/>
 Research interest: three-photon imaging, two-photon imaging, neuronal activity, femtosecond laser<br/>
 <br/>
 <br/>
