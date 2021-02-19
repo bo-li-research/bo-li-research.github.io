@@ -2,34 +2,33 @@
 **Yuxuan Ren**<br/>
 Asscociate professor<br/>
 Research interest: Multiphoton microscopy, light sheet microscopy, optical tweezers etc<br/>
-Email: yxren@ustc.edu.cn
+Email: yxren@ustc.edu.cn<br/>
 
 
-教育经历：
-2007.09-2012.05 中国科学技术大学 光学博士（硕博连读）
-2002.09-2006.07 美国西北工业大学 光学学士
+教育经历：<br/>
+2007.09-2012.05 中国科学技术大学 光学博士（硕博连读）<br/>
+2002.09-2006.07 美国西北工业大学 光学学士<br/>
 
-工作经历：
-2017.04-至今      香港大学            电气与电子工程系  博士后    （Profs. Kevin Tsia and Kenneth Wong）
-2015.08-2017.01    美国旧金山州立大学  物理与天文学系    博士后     
-（陈志刚）
-2012.08-2015.07    中国科学院生物化学与细胞生物学研究所上海国家蛋白质科学中心（NCPSS）                                     科研助理     
-2010.09-2011.08    美国耶鲁大学医学院   访问生     （张永利）
+工作经历：<br/>
+2017.04-至今       香港大学            电气与电子工程系  博士后（Profs. Kevin Tsia and Kenneth Wong）<br/>
+2015.08-2017.01    美国旧金山州立大学  物理与天文学系    博士后（陈志刚）<br/>
+2012.08-2015.07    中国科学院生物化学与细胞生物学研究所上海国家蛋白质科学中心（NCPSS）  科研助理<br/>
+2010.09-2011.08    美国耶鲁大学医学院                   访问生 张永利）<br/>
 
-论文：
-Y.-X. Ren, X. Zeng, L. M. Zhou, C. Kong, H. Mao, C. W. Qiu, K. Tsia, K.K.Y. Wong, Photonic nanojet mediated back-action of dielectric microparticles, ACS Photonics, 7(6),1438-1490 (2020). 
+论文：<br/>
+1. Y.-X. Ren, X. Zeng, L. M. Zhou, C. Kong, H. Mao, C. W. Qiu, K. Tsia, K.K.Y. Wong, Photonic nanojet mediated back-action of dielectric microparticles, ACS Photonics, 7(6),1438-1490 (2020). 
 https://pubs.acs.org/doi/10.1021/acsphotonics.0c00242
 
-Y.-X. Ren, J. Wu#, Q.T.K. Lai, H. M. Lai, D. Siu, W. T. Wu, K. K. Y. Wong, and K. K. Tsia, Parallelized volumetric fluorescence microscopy with reconfigurable coded incoherent light-sheet array, Light: Science & Applications, 9:8 (2020). 
+2. Y.-X. Ren, J. Wu#, Q.T.K. Lai, H. M. Lai, D. Siu, W. T. Wu, K. K. Y. Wong, and K. K. Tsia, Parallelized volumetric fluorescence microscopy with reconfigurable coded incoherent light-sheet array, Light: Science & Applications, 9:8 (2020). 
 https://www.nature.com/articles/s41377-020-0245-8
 
-Y.-X. Ren, C. H. Kong, H. S. He, X. L. Zeng, K. K. Tsia, and K. K. Y. Wong, Encrypted wide-field two-photon microscopy with single-pixel detection and compressed sensing, Appl. Phys. Express, 13, 032007 (2020). 
+3. Y.-X. Ren, C. H. Kong, H. S. He, X. L. Zeng, K. K. Tsia, and K. K. Y. Wong, Encrypted wide-field two-photon microscopy with single-pixel detection and compressed sensing, Appl. Phys. Express, 13, 032007 (2020). 
 https://iopscience.iop.org/article/10.35848/1882-0786/ab7409
 
-S. H. Zhang, J. H. Zhou, and Y.-X. Ren, Ray optics analysis of optical forces on a microsphere in a (2+1) D Airy beam, OSA Continuum, 2(2),378-388 (2019).
+4. S. H. Zhang, J. H. Zhou, and Y.-X. Ren, Ray optics analysis of optical forces on a microsphere in a (2+1) D Airy beam, OSA Continuum, 2(2),378-388 (2019).
 https://www.osapublishing.org/osac/fulltext.cfm?uri=osac-2-2-378&id=404648
 
-Z.X. Fang, Y. Chen, Y.-X. Ren, L. Gong, R.D. Lu, A.Q. Zhang, H.Z. Zhao, and P. Wang, Interplay between topological phase and self-acceleration in vortex symmetric Airy beam, Optics Express, 26(6), 7324-7335 (2018). 
+5. Z.X. Fang, Y. Chen, Y.-X. Ren, L. Gong, R.D. Lu, A.Q. Zhang, H.Z. Zhao, and P. Wang, Interplay between topological phase and self-acceleration in vortex symmetric Airy beam, Optics Express, 26(6), 7324-7335 (2018). 
 https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-26-6-7324&id=383442
 
 Y.-X. Ren, T. S. Kelly, C.S. Zhang, H. Xu, and Z. Chen, Soliton-mediated orientational ordering of gold nanorods and birefringence in plasmonic suspensions, Optics Letters, 42(3), 627-630 (2017). 
