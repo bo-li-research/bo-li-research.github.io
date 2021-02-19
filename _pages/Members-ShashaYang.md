@@ -5,16 +5,16 @@ Research interest: Thalamocortical inputs regulate the development of inhibitory
 Email: sy458@drexel.edu
 
 
-经历简介：
-Education:
-2013-2015   Master student   Capital Normal University  Advisor: Ping Yu
-2015-2017   Visiting student  Drexel University         Advisor: Wen-Jun Gao
-2017-present  Ph.D. student   Drexel University         Advisor: Wen-Jun Gao
-2020-present	 Visiting student  Fudan University         Advisor: Yousheng Shu
-Work experience:
-2021.08     Postdoc        Fudan University         Advisor: Bo Li
+经历简介：<br/>
+Education:<br/>
+2013-2015     Master student    Capital Normal University  Advisor: Ping Yu<br/>
+2015-2017     Visiting student  Drexel University          Advisor: Wen-Jun Gao<br/>
+2017-present  Ph.D. student     Drexel University          Advisor: Wen-Jun Gao<br/>
+2020-present	Visiting student  Fudan University           Advisor: Yousheng Shu<br/>
+Work experience:<br/>
+2021.08       Postdoc           Fudan University           Advisor: Bo Li<br/>
 
-Journals:
+Journals:<br/>
 1.	Wen-Jun Gao *, Sha-Sha Yang, Nancy R. Mack, Linda A. Chamberlin (invited Expert Review): Aberrant connectivity and maturation of prefrontal cortex in schizophrenia – contribution of NMDA receptor development and hypofunction. Molecular Psychiatry (in revision).
 2.	Sha-Sha Yang, Nancy R. Mack, and Wen-Jun Gao*. (2021) Prefrontal GABAergic interneurons gate long-range afferents and regulate prefrontal cortex dependent complex behaviors. Frontiers in Systems Neuroscience (Invited topic review, in preparation)
 3.	Bo Xing, Nancy R. Mack, Kai-Ming Guo, Yu-Xiang Zhang, Billy Ramirez, Sha-Sha Yang, Li Lin, Dong V. Wang, Yan-Chun Li, Wen-Jun Gao*. (2020) A subpopulation of prefrontal cortical neurons is required for social memory. Biological Psychiatry. https://doi.org/10.1016/j.biopsych.2020.08.023
@@ -32,8 +32,8 @@ https://doi.org/10.1016/j.neuropharm.2016.05.002
 9.	Wen-Qiang Huang, Sha-Sha Yang, Ping Yu* (2016) Neural mechanisms of risky decision-making based on rodent research (review). Advances in psychological science 24(11): 1767-1779.
 https://doi:10.3724/SP.J.1042.2016.01767
 10.	Meng-Lin (Merry) Li, Sha-Sha Yang, Bo Xing, Brielle Ferguson, Yelena Gulchina, Yan-chun Li, Feng Li*, Xi-Quan Hu*, Wen-Jun Gao* (2015) LY395756, an mGluR2 agonist and mGluR3 antagonist, enhances NMDA receptor expression and function in the normal adult rat prefrontal cortex, but fails to improve working memory and reverse MK801-induced working memory impairment. Experimental Neurology 273:190-201. https://doi.org/10.1016/j.expneurol.2015.08.019
-
-Conference Presentations:
+<br/>
+Conference Presentations:<br/>
 1.	Sha-Sha Yang*, Wen-Jun Gao. Thalamocortical inputs regulate the development of inhibitory circuitry in the mPFC. DUCOM Discovery Day. Oct 8, 2020 (online).
 2.	Sha-Sha Yang* and Wen-Jun Gao. Mediodorsal thalamic inputs modulate local circuitry development in the prefrontal cortex through somatostatin interneurons. DUCOM Discovery Day. Nov 7, 2019.
 3.	Sha-Sha Yang* and Wen-Jun Gao. Cell type specific innervation of prefrontal cortical interneurons from the mediodorsal thalamus. Gordon Research Seminar & Gordon Research Conference. Newry, ME. Jul 14-20, 2018.
