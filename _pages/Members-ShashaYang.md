@@ -1,5 +1,5 @@
 <br/><img src='/images/Members-ShashaYang.jpg' width='150'><br/>
-[**Shasha Yang**](/_pages/Members-ShashaYang)<br/>
+**Shasha Yang**<br/>
 Postdoc associate<br/>
 Research interest: Thalamocortical inputs regulate the development of inhibitory circuitry in the mPFC<br/>
 Email: sy458@drexel.edu
