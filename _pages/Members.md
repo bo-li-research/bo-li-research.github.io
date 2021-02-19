@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br/><img src='/images/IMG_4123.jpg' width='150'><br/>
+<img src='/images/IMG_4123.jpg' width='150'><br/>
 [**Bo Li**](/_pages/Members-BoLi)<br/>
 Professor<br/>
 Research interest: Three-photon imaging, two-photon imaging, neuronal activity, femtosecond laser<br/>
