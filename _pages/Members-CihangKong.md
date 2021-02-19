@@ -1,5 +1,5 @@
 <br/><img src='/images/Members-CihangKong.jpg' width='150'><br/>
-[**Cihang Kong**](/_pages/Members-CihangKong)<br/>
+**Cihang Kong**<br/>
 Asscociate professor<br/>
 Research interest: Multiphoton microscopy, Coherent Raman scattering microscopy, fs laser etc<br/>
 Email: chkong@physik.uni-bielefeld.de
