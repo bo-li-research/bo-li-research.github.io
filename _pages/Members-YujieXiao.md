@@ -1,5 +1,5 @@
 <br/><img src='/images/Members-YujieXiao.jpg' width='150'><br/>
-[**Yujie Xiao**](/_pages/Members-YujieXiao)<br/>
+**Yujie Xiao**<br/>
 Postdoc associate<br/>
 Research interest: Physiological properties and pathological alterations of ion channels and neurotransmitter receptors<br/>
 Email: xiaoyujie@mail.bnu.edu.cn
