@@ -1,5 +1,5 @@
 <img src='/images/Members-YuxuanRen.jpg' width='150'><br/>
-[**Yuxuan Ren**](/_pages/Members-YuxuanRen)<br/>
+**Yuxuan Ren**<br/>
 Asscociate professor<br/>
 Research interest: Multiphoton microscopy, light sheet microscopy, optical tweezers etc<br/>
 Email: yxren@ustc.edu.cn
