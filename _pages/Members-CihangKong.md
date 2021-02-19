@@ -50,5 +50,5 @@ Yang, T, Wei, ., Kong, C, Tan, S, Tsia, K. K, & Wong, K. K. An ultrafast wideban
 https://ieeexplore.ieee.org/document/8038771<br/>
 Wei, X, Kong, C, Sy, S., Ko, H, Tsia, K. K, & Wong, K. K.Ultrafast time-stretch imaging at 932 nm through a new highly-dispersive fiber. Biomedical optics express, 7(12), 5208-5217. (2016).<br/>
 https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-7-12-5208&id=354855<br/>
-Wei, X, Kong, C, Samanta, G. K, Tsia, K. K, & Wong, K. K.Self-healing highly-chirped fiber laser at 1.0μm.OpticsExpress,24(24),27577-27586.(2016).  <br/>   
+Wei, X, Kong, C, Samanta, G. K, Tsia, K. K, & Wong, K. K.Self-healing highly-chirped fiber laser at 1.0μm.OpticsExpress,24(24),27577-27586.(2016).<br/>
 https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-24-24-27577&id=354765<br/>
