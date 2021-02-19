@@ -14,9 +14,8 @@ redirect_from:
 Professor<br/>
 Research interest: Three-photon imaging, two-photon imaging, neuronal activity, femtosecond laser<br/>
 <br/>
-<br/>
 # Group Members
-<br/><img src='/images/Members-YuxuanRen.jpg' width='150'><br/>
+<img src='/images/Members-YuxuanRen.jpg' width='150'><br/>
 [**Yuxuan Ren**](/_pages/Members-YuxuanRen)<br/>
 Asscociate professor<br/>
 Research interest: Multiphoton microscopy, light sheet microscopy, optical tweezers etc<br/>
