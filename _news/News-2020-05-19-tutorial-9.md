@@ -1,0 +1,70 @@
+---
+title: "Bo Li: Bernard J Couillaud Prize 2020"
+collection: news
+type: "News" 
+permalink: /news/2020-05-19-tutorial-9
+venue: "OSA"
+date: 2020-05-19
+location: "San Jose, California, USA" 
+---
+<br/> 
+<br/>
+<br/>
+<br/>
+<br/>
+
+### CLEO blog
+**Title:**
+Bo Li: Bernard J Couillaud Prize 2020
+<br/>
+<br/>
+Bo Li wins the Bernard J Couillaud Prize 2020, provided by OSA Foundation and Coherent Inc.
+<br/>
+<br/>
+Reported by:
+<br/>
+[Bernard J Couillaud Prize:](https://www.osa.org/en-us/foundation/competitions_prizes/the_bernard_j_couillaud_prize/)
+<br/>
+<br/>
+<img src='/images/News-2020-05-19-a.jpg'>
+<br/>
+<br/>
+<br/>
+**News link:**
+[OSA:](https://www.osa.org/en-us/about_osa/newsroom/news_releases/2020/the_osa_foundation_coherent_inc_announce_the_2020/)
+<br/>
+<br/>
+<img src='/images/News-2020-05-19-b.jpg'>
+<br/>
+<br/>
+[Cornell University:](https://www.aep.cornell.edu/news/bernard-j-couillaud-prize-awarded-aep-postdoctoral-associate-bo-li)
+<br/>
+"Xu Lab postdoctoral associate Bo Li is the 2020 recipient of the prestigious Bernard J. Couillaud Prize. The Optical Society of America and Coherent, Inc. award this merit-based prize to an early career professional working in the area of ultrafast photonics. "
+<br/>
+<br/>
+<br/>
+**Linkedin:**[(1)](https://www.linkedin.com/posts/the-optical-society_osafoundation-cleo20-activity-6666026311003238400-nIii), [(2)](https://www.linkedin.com/posts/chad-stark_so-excited-at-the-optical-society-osa-foundation-activity-6666393991665250305-pEgi), [(3)](https://www.linkedin.com/posts/coherent_osafoundation-cleo20-activity-6666045037408858113-iQKB)
+<br/>
+<br/>
+<img src='/images/News-2020-05-19-c.jpg'>
+<br/>
+<br/>
+<br/>
+**Twitter:**
+[(1)](https://twitter.com/OpticalSociety/status/1260262738154139648)
+[(2)](https://twitter.com/CoherentInc/status/1260298968023482368)
+<br/>
+<br/>
+<br/>
+**Fackbook:**[(1)](https://www.facebook.com/profile.php?id=100004483170806)
+
+**Chris Xu lab:**[(1)](http://xu.research.engineering.cornell.edu/node/287)
+
+**Video:**
+<br/>
+<img src='/images/News-2020-05-19-d.mov'>
+<br/>
+<br/>
+
+
+
