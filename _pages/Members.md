@@ -35,8 +35,3 @@ Research interest: Physiological properties and pathological alterations of ion 
 Postdoc associate<br/>
 Research interest: Thalamocortical inputs regulate the development of inhibitory circuitry in the mPFC<br/>
 
-<img src='/images/Members-ZhenghongWang.jpg' width='150'><br/>
-[**Zhenghong Wang**](/_pages/Members-ZhenghongWang)<br/>
-Undergraduate<br/>
-Research interest: Microscope design, 3D model design<br/>
-<br/>
